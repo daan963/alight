@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://callcontrols-eastus-test.uhone.com</homePageLink>
+		<homePageLink>https://you.csum.edu</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://callcontrols-eastus-test.uhone.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://callcontrols-eastus-test.uhone.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://callcontrols-eastus-test.uhone.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://callcontrols-eastus-test.uhone.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://callcontrols-eastus-test.uhone.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://you.csum.edu/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://you.csum.edu/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://you.csum.edu/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://you.csum.edu/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://you.csum.edu/wp-json/" />
 			</apis>
 	</service>
 </rsd>
